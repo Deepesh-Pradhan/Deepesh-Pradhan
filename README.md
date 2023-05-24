@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/deepesh-pradhan-998949167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepesh pradhan" height="30" width="40" /></a>
 <a href="https://instagram.com/deepeshpradhan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepeshpradhan__" height="30" width="40" /></a>
    <a href="https://discord.gg/https://discord.gg/Xu9SB3EM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Xu9SB3EM" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/https://youtube.com/@DeepeshPradhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@deepeshpradhan_" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCUymLkayNkgAIgcT-e0lb4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@deepeshpradhan_" height="30" width="40" /></a>
   <a href="https://twitter.com/deepeshpradhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepeshpradhan_" height="30" width="40" /></a>
 
  
