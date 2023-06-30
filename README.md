@@ -16,4 +16,3 @@
 
 <p><img height="169cm" src="https://github-readme-stats.vercel.app/api?username=deepesh-pradhan&show_icons=true&locale=en"/>
 <img height="169cm" src="https://github-readme-streak-stats.herokuapp.com/?user=deepesh-pradhan&"/>
-<p>&nbsp;<img height="169cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-pradhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></p>
